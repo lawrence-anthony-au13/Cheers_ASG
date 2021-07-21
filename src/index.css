@@ -1,0 +1,18 @@
+body {
+  background-color: aquamarine;
+}
+
+.header {
+  height: 100px;
+}
+
+.movie-card {
+  margin-left: 10px;
+  margin-bottom: 10px;
+  max-width: 300px;
+  width: 300px;
+}
+
+.card {
+  height: 450px;
+}
